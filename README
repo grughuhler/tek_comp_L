@@ -1,0 +1,12 @@
+This directory contains a C program that computes values from a
+method for measuring inductors and capacitors described in a
+Tektronix app note:
+
+      Capacitance and Inductance Measurements Using an Oscilloscope
+      and a Function Generator
+
+      https://tinyurl.com/4svu9spp (or just google for it)
+
+Compile it via gcc -o comp_L comp_L.c -lm
+
+See introductory comment in the program.
